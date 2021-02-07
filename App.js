@@ -4,7 +4,7 @@ import {
   StatusBar,
 } from 'react-native';
 
-import Quote from './src/scenes/quote/indesx';
+import Quote from './src/scenes/quote';
 
 const App = () => {
   return (
